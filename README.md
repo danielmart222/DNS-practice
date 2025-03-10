@@ -10,6 +10,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
@@ -19,6 +20,8 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 
 <h1> Domain Naming System  </h1>
+
+<h1> A-Record Excercise </h1>
 
 ------------
 
