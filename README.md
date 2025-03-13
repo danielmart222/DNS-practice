@@ -174,7 +174,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 ---------
 
 
-- Create a A-Record where the Hostname is "Mainframe" that points to the Private IP address
+- Create a A-Record where the Hostname is "Mainframe" that points to DC-1's Private IP address
 
 ----------------
 
