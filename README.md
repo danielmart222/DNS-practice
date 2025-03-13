@@ -61,7 +61,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -------------
 
-- To see the local DNS Cache Type the Command: ipconfig /displaydns
+- To see the local DNS Cache -> Type the Command: ipconfig /displaydns
 
 ---------
 
