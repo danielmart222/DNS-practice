@@ -48,10 +48,12 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 --------
 
-![image](https://github.com/user-attachments/assets/9d00cfe1-b8dc-4b4d-ab0a-08b2b42a6085)
+![image](https://github.com/user-attachments/assets/34fb6862-db8d-4036-a57a-70987b97ba8e)
 
 
 ------------
+
+- When a Computer tries to interact with any Hostname on a Network 
 
 1.	It Checks the Local  DNS Cache first (Fastest) memory.
 2.	It Checks the Local Host File second (Faster) host file on the disk
@@ -69,8 +71,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------
 
-![image](https://github.com/user-attachments/assets/db7db707-662d-42a3-8f9a-eb3b84d0e03b)
-
+![image](https://github.com/user-attachments/assets/60781656-f56f-447f-a52b-dacad56dcd5b)
 
 -------------
 
@@ -90,7 +91,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------
 
-![image](https://github.com/user-attachments/assets/9bdafee3-7336-4b46-b608-688e90a42ba0)
+![image](https://github.com/user-attachments/assets/0a72ff7d-f992-4911-a9d9-731441947396)
 
 
 --------------
@@ -100,7 +101,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -------
 
-![image](https://github.com/user-attachments/assets/b33104ce-7a3d-44f2-b3fb-45c4d702c11a)
+![image](https://github.com/user-attachments/assets/212bfdff-8d51-4cb3-9c86-3fbe18ea9fdf)
 
 
 ------------
@@ -111,7 +112,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 ---------------
 
 
-![image](https://github.com/user-attachments/assets/1137935c-7236-4920-b48b-926695b1d880)
+![image](https://github.com/user-attachments/assets/b8b1a0ea-bff5-49dd-b5dc-bacc94cb116c)
 
 
 ------------
@@ -131,7 +132,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------
 
-![image](https://github.com/user-attachments/assets/8dc2e043-12bb-4937-936e-2984372cf85d)
+![image](https://github.com/user-attachments/assets/e2fdd25c-70e3-47ee-9225-ba4f5c89828c)
 
 
 ------------------
@@ -147,7 +148,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 -------------
 
 
-![image](https://github.com/user-attachments/assets/a11c5566-9eca-4a80-97fa-33a2a3020517)
+![image](https://github.com/user-attachments/assets/f99947d4-e46c-44a7-8632-311837e6842c)
 
 
 ------------------
@@ -157,7 +158,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 ----------
 
 
-![image](https://github.com/user-attachments/assets/124b4a23-a3ed-4294-8c9b-d1bdf92a96ca)
+![image](https://github.com/user-attachments/assets/7e6fadf1-0b06-46a4-92b9-c37568459ef2)
 
 
 -------------
@@ -167,7 +168,8 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------------
 
-![image](https://github.com/user-attachments/assets/a767d726-8875-4a4d-b61c-174f4e140abd)
+![image](https://github.com/user-attachments/assets/48ea7dda-0023-44b6-a917-2fcf19969627)
+
 
 ---------
 
@@ -181,9 +183,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -------------
 
-![image](https://github.com/user-attachments/assets/4efe0625-49ff-4b84-b05f-d063446069a7)
-
-
+![image](https://github.com/user-attachments/assets/7eeab52a-5339-4eef-8715-2e623aa28f0b)
 
 
 -------------
@@ -192,7 +192,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -----------
 
-![image](https://github.com/user-attachments/assets/443eaf65-a1a3-41a4-80c2-a9dfa47b9150)
+![image](https://github.com/user-attachments/assets/36f891db-ebd1-45c7-b654-5406863cc9b0)
 
 
 --------------
@@ -217,7 +217,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ------
 
-![image](https://github.com/user-attachments/assets/9c018231-12ca-40a6-a648-377106273f64)
+![image](https://github.com/user-attachments/assets/437d1348-82f6-41fb-835a-4be2a9412f76)
 
 
 ------------
@@ -235,7 +235,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -------------
 
-![image](https://github.com/user-attachments/assets/9a831fce-0ee4-4990-9327-dc0948c52c42)
+![image](https://github.com/user-attachments/assets/61460be2-99ae-43f2-ab65-9ddc23b140ef)
 
 
 --------------
@@ -249,7 +249,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------
 
-![image](https://github.com/user-attachments/assets/5dc9645a-ecb4-4998-bab2-2983b98f8429)
+![image](https://github.com/user-attachments/assets/73b64528-bfbe-4d6f-b616-b839e7746f81)
 
 
 -------------
@@ -264,7 +264,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ------------
 
-![image](https://github.com/user-attachments/assets/0e42bf17-f449-4155-86af-f6a1425c94f0)
+![image](https://github.com/user-attachments/assets/7d3f4247-f29e-4162-b2b6-f48c3f9bc3e7)
 
 
 ----------
@@ -283,7 +283,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ---------
 
-- Now ping mainframe, you get a reply back.
+- Now ping mainframe, you get a reply back pointing to the New IP address 8.8.8.8
 
 -----------
 
@@ -294,7 +294,8 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -----------
 
-![image](https://github.com/user-attachments/assets/94044d68-54e6-4956-9409-13b850745198)
+![image](https://github.com/user-attachments/assets/878aadc0-ef10-4e1b-8572-60fa299cace4)
+
 
 ----------
 
@@ -318,13 +319,12 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 -----------
 
 
-![image](https://github.com/user-attachments/assets/8a7ca591-e0bd-4179-b912-464b91676c0d)
+![image](https://github.com/user-attachments/assets/b45432ad-b20d-4f6c-affb-be17ca846018)
 
 
 ----------
 
-![image](https://github.com/user-attachments/assets/fc1d0755-9343-4133-aa39-58b0e5a45ba5)
-
+![image](https://github.com/user-attachments/assets/a268fd0c-41c1-448f-a227-ba52ef0db4f3)
 
 -----------
 
@@ -336,7 +336,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 ----------
 
-![image](https://github.com/user-attachments/assets/097f15e6-ebe9-4e92-8722-f92d199c8bd3)
+![image](https://github.com/user-attachments/assets/95c0efd5-2311-4db1-8aec-c4ae3f84f339)
 
 
 --------
@@ -351,5 +351,6 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -----------
 
-![image](https://github.com/user-attachments/assets/6002b6b4-0ce6-4f76-a6ab-aa8508b349cb)
+![image](https://github.com/user-attachments/assets/5642bf00-ad89-4a86-a01e-068c719caf60)
+
 
