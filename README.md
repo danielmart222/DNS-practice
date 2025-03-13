@@ -188,7 +188,7 @@ In this tutorial, I will use Client-1 and DC-1 to do a few exercises to better u
 
 -------------
 
-- Name it Mainframe -> Type the Private IP address -> Add Host
+- Name it Mainframe -> Type DC-1's Private IP address -> Add Host
 
 -----------
 
